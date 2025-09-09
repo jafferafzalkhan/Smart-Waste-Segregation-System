@@ -73,8 +73,7 @@ To connect Arduino UNO to PC (for coding + power)
 - Python 3.x  
 - Libraries: [pyserial](https://pypi.org/project/pyserial/)  
 
-## Circuit Diagram  
-file:///C:/Users/jaffer%20afzal%20khan/Downloads/smart_waste_segregation_circuit_diagram.html
+
 
 ## Installation  
 1. Clone the repository:  
