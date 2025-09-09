@@ -1,5 +1,5 @@
 # Smart-Waste-Segregation-System
-The Smart Waste Segregation System is an automated solution designed to classify household and municipal waste into metal, wet, and dry categories using Arduino, sensors, and servo motors. The system reduces human effort, enhances efficiency, and promotes a cleaner environment by sorting waste at the source.
+♻️ IoT-based smart waste segregation system using Arduino, sensors, and automation. Designed to detect and sort metal, peel, and plastic into separate bins, reducing manual effort and promoting cleaner, smarter cities.
 # Smart Waste Segregation System ♻️
 An Arduino + Python based project that automatically classifies waste into Metal, Wet, and Dry categories using sensors and servo motors.
 
