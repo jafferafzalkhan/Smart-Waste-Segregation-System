@@ -74,7 +74,7 @@ To connect Arduino UNO to PC (for coding + power)
 - Libraries: [pyserial](https://pypi.org/project/pyserial/)  
 
 ## Circuit Diagram  
-![Circuit Diagram](images/circuit_diagram.png)  
+file:///C:/Users/jaffer%20afzal%20khan/Downloads/smart_waste_segregation_circuit_diagram.html
 
 ## Installation  
 1. Clone the repository:  
